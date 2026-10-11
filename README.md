@@ -1,4 +1,6 @@
 # fraud-detection
+# Streamlit demo app, built with the help of Claude (Anthropic).
+# The model itself (training and evaluation) is in creditcard.ipynb.
 # Bank Transaction Fraud Detection
 
 A machine learning model that detects fraudulent credit card transactions, with a small Streamlit app to try it.
